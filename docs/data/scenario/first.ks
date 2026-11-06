@@ -35,7 +35,7 @@
 
 *tag_run
 
-[bg storage=run.jpg time=500]
+[bg storage=run1.jpg time=500]
 
 [cm]
 メロスは黒い風のように走った。[l][r]
